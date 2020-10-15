@@ -26,6 +26,9 @@
   width: 700px;
   
 }
+  .lesson-icon img{
+  width:50%;
+  }
 }
 
 /* Untuk Smartphone */
@@ -79,4 +82,8 @@
   width: 250px;
   
 }
+  .lesson-icon img{
+  width:100%;
+  }
+
 }
